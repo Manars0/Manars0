@@ -6,7 +6,7 @@
 ### About Me
 🎓 I’m a **Programming and Database** student passionate about technology, design, and problem-solving.  
 I enjoy building interactive applications, designing user-friendly interfaces, and exploring data-driven systems.  
-Currently learning **Android Development**, **FlutterFlow**, and **Database Management Systems (Supabase & SQLite)**.  
+Currently learning **Android Development**, **FlutterFlow**, and **Database Management Systems (Supabase & SQLite)** and **Data Analysis**.  
 My goal is to develop creative, impactful, and well-structured digital solutions.
 
 ---
