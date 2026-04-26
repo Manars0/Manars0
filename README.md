@@ -48,6 +48,6 @@ My goal is to develop creative, impactful, and well-structured digital solutions
 ---
 
 ### Connect With Me
-**Email:** [manarsalem.dev@gmail.com](mailto:manarsalem.dev@gmail.com)  
+**Email:** [manarsab0@gmail.com](mailto:manarsab0@gmail.com)  
 **Phone:** +966 59 796 0354  
 
