@@ -1,5 +1,4 @@
-<h2 align="center">Manar Salem</h2>
-<h3 align="center">Building products by combining software, design, data, and curiosity.</h3>
+<h2 align="center">Manar Salem</h2><h3 align="center">Building products by combining software, design, data, and curiosity.</h3>
 
 Every skill I've learned started with curiosity — I simply kept following one question:
 **"What else do I need to understand to build something better?"**
