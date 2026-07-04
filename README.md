@@ -16,10 +16,11 @@ UI/UX taught me why they interact that way.
 
 Data analysis taught me how to validate decisions using evidence.
 
-Automation showed me how small improvements can save hours of repetitive work.
+Automation showed me how small improvements can save hours of repetitive work. 
 
 Today, I'm interested in building products where these pieces come together— not just applications that work, but systems that are intuitive, data-informed, and solve real problems.
-Learning never stops, and this is another step forward ✨
+Learning never stops, and this is another step forward ✨.
+
 ---
 ### I build with
 
