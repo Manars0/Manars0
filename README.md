@@ -4,7 +4,7 @@
 Building products by combining software, design, data, and curiosity.
 </p>
 
----
+
 
 Every skill I've learned started with curiosity.
 
@@ -30,7 +30,7 @@ Today, I'm interested in building products where these pieces come together—no
 
 I'm still exploring, and that's probably my favorite part.
 
----
+
 
 ## I build with
 
@@ -58,19 +58,18 @@ Because good products also rely on good data.
 
 Where I design workflows that connect APIs, AI models, and services into practical automations.
 
----
+
 
 ## Projects I'm Proud Of
 
-### 🏆 Buildathon Winning Project
+### Buildathon Winning Project "Tawafuq"
 
 A web application developed during Buildathon where I contributed to product design and frontend development.
 
 Working in a fast-paced team environment, I helped transform ideas into a functional prototype, focusing on intuitive user experience, responsive interfaces, and rapid iteration.
 
-`React` • `Figma` • `UI/UX` • `Cursor AI`
+`React` • `Figma` • `UI/UX` • `Cursor AI` 
 
----
 
 ### ERP Fraud Detection System
 
@@ -80,8 +79,6 @@ The project focuses on generating realistic enterprise data for fraud detection 
 
 `Python` • `Data Analysis` • `Machine Learning` • `Automation`
 
----
-
 ### Workflow Automation
 
 A growing collection of automation tools built to simplify repetitive tasks.
@@ -90,7 +87,6 @@ Projects include email organization, Google Maps traffic data collection, batch 
 
 `Python` • `APIs` • `n8n` • `Automation`
 
----
 
 ### Graduation Project
 
@@ -98,7 +94,6 @@ A cross-platform mobile application built with Flutter, where I focused on trans
 
 `Flutter` • `Dart` • `Supabase`
 
----
 
 ### UI/UX Explorations
 
@@ -106,7 +101,6 @@ A collection of wireframes, prototypes, and interface concepts focused on buildi
 
 `Figma` • `UX Research` • `Prototyping`
 
----
 
 ## Beyond Code
 
@@ -116,7 +110,6 @@ Most of my side projects begin with a simple question:
 
 > **"Can this be done in a better way?"**
 
----
 
 ## Currently Exploring
 
@@ -128,7 +121,4 @@ Most of my side projects begin with a simple question:
 
 ---
 
-## Connect
-
-📧 **Email**  
-**manarsab0@gmail.com**
+`Figma` • `python` • `java` • `SQL` • `n8n` • `React` • `HTML` • `CSS` •  `javScript`
