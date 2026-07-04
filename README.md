@@ -1,13 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Manar Salem</h1>
-<h3 align="center">Programming and Database Student at King Saud University</h3>
 
----
+Every technology I've learned started with the same question:
 
-### About Me
-🎓 I’m a **Programming and Database** student passionate about technology, design, and problem-solving.  
-I enjoy building interactive applications, designing user-friendly interfaces, and exploring data-driven systems.  
-Currently learning **Android Development**, **FlutterFlow**, and **Database Management Systems (Supabase & SQLite)** and **Data Analysis**.  
-My goal is to develop creative, impactful, and well-structured digital solutions.
+*"What else do I need to understand to build something better?"*
+
+That question first introduced me to Python, then frontend development, UI/UX, databases, mobile development, and more recently, data analysis and automation.
+
+The more I learned, the more I realized that writing code is only one piece of the puzzle.
+Each step changed the way I think about software.
+
+Frontend taught me how people interact with products.
+UI/UX taught me why they interact that way.
+Data analysis taught me how to validate decisions using evidence.
+Automation showed me how small improvements can save hours of repetitive work.
+
+Today, I'm interested in building products where these pieces come together— not just applications that work, but systems that are intuitive, data-informed, and solve real problems.
 
 ---
 
