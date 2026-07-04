@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Manar Salem</h1>
+<h3 align="center">Manar Salem</h3>
 
 Every technology I've learned started with the same question:
 
-*"What else do I need to understand to build something better?"*
+<h6>"What else do I need to understand to build something better?"</h6>
 
 That question first introduced me to Python, then frontend development, UI/UX, databases, mobile development, and more recently, data analysis and automation.
 
