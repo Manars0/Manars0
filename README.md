@@ -121,7 +121,7 @@ Most of my side projects begin with a simple question:
 
  ## Connect
 
-**Email:** [manarsab0@gmail.com](mailto:manarsab0@gmail.com)
+Email: [manarsab0@gmail.com](mailto:manarsab0@gmail.com)
 ---
 
 `Figma` • `python` • `java` • `SQL` • `n8n` • `React` • `HTML` • `CSS` •  `javScript`
