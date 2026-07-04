@@ -2,7 +2,7 @@
 
 Every technology I've learned started with the same question:
 
-"What else do I need to understand to build something better?"
+**"What else do I need to understand to build something better?"**
 
 That question first introduced me to Python, then frontend development, UI/UX, databases, mobile development, and more recently, data analysis and automation.
 
@@ -51,6 +51,15 @@ Today, I'm interested in building products where these pieces come together— n
 - [**Linked List & Data Structures (Java)**](https://github.com/Manars0/DataStructures)
 - [**Figma Design Collection**](https://www.figma.com/@manar)
 - *(Coming soon)* **FlutterFlow + Supabase Project**
+
+---
+## Beyond code
+
+Outside of development, I enjoy participating in hackathons, exploring product ideas, and experimenting with ways AI can simplify everyday work.
+
+Many of my side projects begin with a simple question:
+
+**"Can this be done in a better way?"**
 
 ---
 
